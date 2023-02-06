@@ -18,6 +18,7 @@ void linear_search(int a[], int n, int x)
         cout << "Not Present!" << endl;
     cout << "No. of Comparisons:" << comp<<endl;
 }
+//main program
 int main()
 {
     int T;
